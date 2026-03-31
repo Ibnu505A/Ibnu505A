@@ -1,5 +1,5 @@
 # Ibnu Azhar
-**Data Scientist | Machine Learning Engineer**
+**Data Science | Machine Learning**
 
 I specialize in building predictive models, analyzing complex datasets, and developing scalable machine learning solutions. My primary focus areas are Deep Learning, Time-Series Forecasting, and Natural Language Processing.
 
