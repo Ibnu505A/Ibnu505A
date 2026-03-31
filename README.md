@@ -1,60 +1,30 @@
-# 👋 Hi, I'm Ibnu
+# Ibnu Azhar
+**Data Scientist | Machine Learning Engineer**
 
-Thanks for stopping by!
+I specialize in building predictive models, analyzing complex datasets, and developing scalable machine learning solutions. My primary focus areas are Deep Learning, Time-Series Forecasting, and Natural Language Processing.
 
-I'm currently focused on building mobile applications using **React Native**, especially for education, productivity, and AI-powered tools. I love crafting clean UIs and making sure the app feels smooth and responsive — both in design and performance.
+## Core Competencies
 
-I'm also actively learning about **Artificial Intelligence**, including **machine learning**, **deep learning**, and how they can be integrated into mobile applications. Besides that, I'm diving into the world of **Web3** and decentralized apps — really curious how these technologies will shape the future.
+- **Predictive Modeling:** Developing classification and regression models for real-world business challenges.
+- **Time-Series Analysis:** Forecasting temporal patterns using statistical methods and recurrent neural networks (LSTM).
+- **Data Engineering:** Extensive experience in exploratory data analysis (EDA), data wrangling, and feature engineering.
 
-Right now, I spend most of my time coding, learning, and experimenting with ideas that I hope will be useful for others (and fun to build too).
+## Technical Expertise
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-1E88E5?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🛠️ Tech Stack & Tools
+## Projects & Repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+Rather than listing static highlights, I keep my portfolio dynamic and updated in the repositories below. 
 
----
+Currently, my repositories include end-to-end architectures such as:
+- Predictive analytics and classification models for business retention strategies.
+- Deep learning (LSTM) and time-series forecasting for urban mobility data.
+- Exploratory data analysis and feature engineering on complex datasets.
 
-## 📱 Projects I'm Working On
+Please feel free to explore my pinned repositories below to review the code, professional documentations, and technical methodologies behind my work.
 
-| Project         | Description                                                  | Status  |
-|----------------|--------------------------------------------------------------|---------|
-| **AstroAI**     | Education app about the Solar System with 3D visualization & AI chat | 🔄 In Progress |
-| **AI Chat App** | A clean, customizable AI-powered chat app with modern UI     | ✅ Released (for sale) |
-| **CryptoX**     | A mobile dashboard to track crypto prices & portfolios       | 🔄 In Progress |
+## Contact
 
-> Some source codes are private and sold on CodeCanyon. Demos available upon request.
-
----
-
-## 🎯 Currently Exploring
-
-- 🤖 Machine Learning & Deep Learning with Python  
-- 🧠 How to use AI models inside mobile apps  
-- 🔐 Web3 concepts like smart contracts & wallet integration  
-- 🌍 Building a strong and clean mobile UI for real users  
-
----
-
-## 📫 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-
----
-
-Thanks for reading this far. Always open to collaborate or just chat about code, AI, or anything exciting. Let's build something cool together 🚀
+- **Email:** [Your Professional Email]
+- **LinkedIn:** [Your LinkedIn URL]
